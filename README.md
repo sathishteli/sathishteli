@@ -17,13 +17,13 @@
 
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,react,nodejs,express,fastapi,postman,flask,pytorch,sklearn,tensorflow,mongodb,mysql,postgres,git,vite,vercel,grafana,linux,docker,vscode,vim,figma,eclipse,blender" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,html,css,react,nodejs,express,fastapi,postman,flask,mongodb,mysql,postgres,git,vscode,figma,eclipse" />
   </a>
 </p>
 
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,raspberrypi,arduino,anaconda" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,anaconda" />
   </a>
 </p>
 
