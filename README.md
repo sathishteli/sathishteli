@@ -6,20 +6,17 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <a href="https://github.com/sathishteli">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=sathishteli&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" 
-      alt="sathishteli's GitHub Stats" 
-    />
-  </a>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=sathishteli&show_icons=true&theme=dark&border_radius=10" 
+    alt="Satish's GitHub Stats" 
+  />
 
   <img 
-    src="https://streak-stats.demolab.com/?user=sathishteli&theme=dark&hide_border=true" 
-    alt="sathishteli's GitHub Streak" 
-    width="49%" 
+    height="180em"
+    src="https://streak-stats.demolab.com?user=sathishteli&theme=dark&hide_border=true" 
+    alt="Satish's GitHub Streak" 
   />
 </p>
 
