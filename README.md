@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 
 * ✉️ **Let's connect:** [satishteli74@gmail.com](mailto:satishteli74@gmail.com)
-
+* ✉️ **Let's connect:** [satishteli74@gmail.com](mailto:satishteli74@gmail.com)
 ## 📊 GitHub Stats
 
 <p align="center">
