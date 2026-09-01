@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 
 - 💻 Aspiring Software Development Engineer passionate about building efficient and scalable software solutions.
-
+- 🌱 Continuously learning and exploring new technologies in software development.
 - ⚡ Interested in problem-solving, web development, and building impactful projects.
 - ✉️ **Let's connect:** [satishteli74@gmail.com](mailto:satishteli74@gmail.com)
 
